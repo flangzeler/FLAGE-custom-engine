@@ -1,0 +1,11 @@
+// hierarchy_panel.h
+#pragma once
+#include "E:/PROJECTS/glfw/learning/project_FLAGE/engine/core/renderer/render_engines/test_engine/scene/scene_class/scene.h"
+#include "imgui.h"
+#include "../../../../core/renderer/render_engines/test_engine/scene/scene_class/scene.h"
+
+class HierarchyPanel {
+public:
+    Scene* scene = nullptr;  
+    void Render();
+};
