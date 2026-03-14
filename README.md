@@ -1,6 +1,6 @@
 # Flag Engine | Custom C++/OpenGL 3D Renderer
 
-![Engine Header or Screenshot](1)
+![Engine Header or Screenshot](1.png)
 
 Flag Engine is a high-performance 3D rendering engine built from the ground up using **C++** and **OpenGL 4.x**. This project focuses on implementing a modern, physically-based graphics pipeline and providing a robust testing ground for technical art and shader development.
 
